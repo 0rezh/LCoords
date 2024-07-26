@@ -1,5 +1,8 @@
 Config = {
     CommandName = "lcoords",
-    perms = {"admin","owner"},
+    AceAllowed = {
+        "group.admin",
+        "group.owner"
+    },
     KeyMapping = "F2"
 }

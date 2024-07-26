@@ -1,4 +1,4 @@
-# LCoords
+# LCoords - No ESX ( Not tested )
 
 Ce script de coordonnées (vec3(x, y, z), vec4(x, y, z, h), etc...) a été réalisé avec RageUI.
 
